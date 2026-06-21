@@ -26,6 +26,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 
 | Game | Link | Why it's notable | Est. playtime |
 |------|------|------------------|---------------|
+| **Universal Paperclips** | https://www.decisionproblem.com/paperclips/index2.html | The one that started it all. AI takes over paperclip production with hilarious results. | 4-6h |
 | **Spaceplan** | http://jhollands.co.uk/spaceplan/ | Humorous escalation, potato-powered solar conquest. Has a real ending. | 2-3h |
 | **Candy Box 2** | https://candybox2.github.io/ | Text-based, unlocks entirely new systems as you go. | 4-6h |
 | **A Dark Room** | http://adarkroom.doublespeakgames.com/ | Starts dark and minimal, evolves into exploration RPG with narrative. | 3-5h |
