@@ -85,6 +85,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 
 ### RPG
 
+- [Auferet](https://auferet.com/) - AI game master for solo text adventures and tabletop-style RPGs, playable in the browser with persistent memory and your own uploaded lore.
 - [BrowserQuest](https://browserquest.mozilla.org/) - HTML5 and JavaScript multiplayer game experiment from Mozilla.
 - [Diablo JS](https://mitallast.github.io/diablo-js/) - Isometric minimal-code style game at HTML5 canvas.
 
